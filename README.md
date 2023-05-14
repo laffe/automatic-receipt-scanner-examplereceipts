@@ -1,5 +1,5 @@
 # Example receipts for our bachelor thesis
-Example receipts that can be used for testing the Automatic Receipt Scanner system.
+Example receipts that can be used to test the Automatic Receipt Scanner system. We created this repository to save you the hassle of converting files to JPG manually.
 
 Please note that neither the object detection model nor the text recognition model have been trained on, or seen these receipts before.
 
